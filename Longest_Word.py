@@ -1,5 +1,9 @@
 import string
 
+#Find the longest word in a string
+#IGNORE ALL PUNCTUATION
+#Numbers are okay
+
 
 #function that finds the longest word
 def LongestWord(sen):
